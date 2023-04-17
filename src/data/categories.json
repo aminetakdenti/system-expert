@@ -1,0 +1,682 @@
+[
+  {
+    "_id": "642597a671d75443e21b586d",
+    "categorie": "Computers",
+    "bookNumber": 76,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b586f",
+    "categorie": "Marine meteorology",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5871",
+    "categorie": "Courts",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5873",
+    "categorie": "Electronic books",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5875",
+    "categorie": "Linux",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5877",
+    "categorie": "Technology & Engineering",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5879",
+    "categorie": "Industries",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b587b",
+    "categorie": "Rivers State (Nigeria)",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b587d",
+    "categorie": "Chemistry",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b587f",
+    "categorie": "undefined",
+    "bookNumber": 50,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5881",
+    "categorie": "Education",
+    "bookNumber": 5,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5883",
+    "categorie": "Literary Collections",
+    "bookNumber": 4,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5885",
+    "categorie": "Environmental management",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5887",
+    "categorie": "Investments",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5889",
+    "categorie": "Civil service",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b588b",
+    "categorie": "Wages and labor productivity",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b588d",
+    "categorie": "Meteorology",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b588f",
+    "categorie": "Teachers",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5891",
+    "categorie": "Social security",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5893",
+    "categorie": "Church and social problems",
+    "bookNumber": 1,
+    "__v": 0
+  },
+
+  {
+    "_id": "642597a671d75443e21b5899",
+    "categorie": "Art, American",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b589b",
+    "categorie": "Foreign Language Study",
+    "bookNumber": 5,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b589d",
+    "categorie": "Municipal finance",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b589f",
+    "categorie": "Corporations",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58a1",
+    "categorie": "Architecture",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58a3",
+    "categorie": "Cattle",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58a5",
+    "categorie": "Mental health",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58a7",
+    "categorie": "Taiwan",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58a9",
+    "categorie": "Agriculture",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58ab",
+    "categorie": "Machinery",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58ad",
+    "categorie": "Labor supply",
+    "bookNumber": 1,
+    "__v": 0
+  },
+
+  {
+    "_id": "642597a671d75443e21b58b1",
+    "categorie": "Information storage and retrieval systems",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58b3",
+    "categorie": "Education and state",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58b5",
+    "categorie": "Business",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58b7",
+    "categorie": "Criminal justice, Administration of",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58b9",
+    "categorie": "Computer animation",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58bb",
+    "categorie": "Art",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58bd",
+    "categorie": "Agricultural laborers",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58bf",
+    "categorie": "Argentina",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58c1",
+    "categorie": "Library catalogs",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58c3",
+    "categorie": "Egypt",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58c5",
+    "categorie": "Air traffic control",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58c7",
+    "categorie": "History",
+    "bookNumber": 3,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58c9",
+    "categorie": "Europe",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58cb",
+    "categorie": "Chinese literature",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58cd",
+    "categorie": "Astronomy",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58cf",
+    "categorie": "China",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58d1",
+    "categorie": "Public welfare",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58d3",
+    "categorie": "Economic assistance",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58d5",
+    "categorie": "Consumption (Economics)",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58d7",
+    "categorie": "Canada",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58d9",
+    "categorie": "Japan",
+    "bookNumber": 3,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58db",
+    "categorie": "Chinese periodicals",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58dd",
+    "categorie": "Authors, Chinese",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58df",
+    "categorie": "Railroads",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58e1",
+    "categorie": "Commercial statistics",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58e3",
+    "categorie": "Ophthalmology",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58e5",
+    "categorie": "India",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58e7",
+    "categorie": "Indexes",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58e9",
+    "categorie": "Elections",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58eb",
+    "categorie": "Financial institutions",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58ed",
+    "categorie": "Spain",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58ef",
+    "categorie": "Mathematics",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58f1",
+    "categorie": "Law",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58f3",
+    "categorie": "Mathematical statistics",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58f5",
+    "categorie": "Mineral industries",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58f7",
+    "categorie": "Internet domain names",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58f9",
+    "categorie": "Business & Economics",
+    "bookNumber": 3,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58fb",
+    "categorie": "Literature and photography",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58fd",
+    "categorie": "Fiction",
+    "bookNumber": 65,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b58ff",
+    "categorie": "French literature",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5901",
+    "categorie": "Phenomenology",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5903",
+    "categorie": "Civilisation moderne et contemporaine",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5905",
+    "categorie": "Drama",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5907",
+    "categorie": "Ethics",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5909",
+    "categorie": "Biography & Autobiography",
+    "bookNumber": 4,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b590b",
+    "categorie": "French language",
+    "bookNumber": 3,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b590d",
+    "categorie": "Juvenile Nonfiction",
+    "bookNumber": 3,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b590f",
+    "categorie": "Composers",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5911",
+    "categorie": "Ethnology",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5913",
+    "categorie": "Animal shelters",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5915",
+    "categorie": "Juvenile Fiction",
+    "bookNumber": 18,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5917",
+    "categorie": "Comics & Graphic Novels",
+    "bookNumber": 34,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5919",
+    "categorie": "Social Science",
+    "bookNumber": 5,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b591b",
+    "categorie": "Self-Help",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b591d",
+    "categorie": "France",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b591f",
+    "categorie": "Humor",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5921",
+    "categorie": "French wit and humor, Pictorial",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5923",
+    "categorie": "Detective and mystery stories",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5925",
+    "categorie": "Juvenile delinquency",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5927",
+    "categorie": "Commerce",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5929",
+    "categorie": "Literary Criticism",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b592b",
+    "categorie": "Cooking",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b592d",
+    "categorie": "Children's stories, Danish",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b592f",
+    "categorie": "Anthropomorphism",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5931",
+    "categorie": "Political Science",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5933",
+    "categorie": "Marine ecology",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5935",
+    "categorie": "Tiger",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5937",
+    "categorie": "Assassins",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5939",
+    "categorie": "Blacksad, John (Fictitious character)",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b593b",
+    "categorie": "Blacks",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b593d",
+    "categorie": "Children's stories, French",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b593f",
+    "categorie": "Autobiography",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5941",
+    "categorie": "Poetry",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5943",
+    "categorie": "Aesthetics, Modern",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5945",
+    "categorie": "Young Adult Fiction",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5947",
+    "categorie": "Belgian wit and humor, Pictorial",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b5949",
+    "categorie": "Latin America",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b594b",
+    "categorie": "Performing Arts",
+    "bookNumber": 2,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b594d",
+    "categorie": "Arid regions",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a671d75443e21b594f",
+    "categorie": "Afghanistan",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a771d75443e21b5951",
+    "categorie": "Art, French",
+    "bookNumber": 1,
+    "__v": 0
+  },
+  {
+    "_id": "642597a771d75443e21b5953",
+    "categorie": "Authors, French",
+    "bookNumber": 2,
+    "__v": 0
+  }
+]
